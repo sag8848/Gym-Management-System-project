@@ -1,0 +1,1 @@
+this project is made to support the management of gym System which involve two Member. i.e Premium Member and Regular Member. according to the member choices, they can use the facilities with their membership.
